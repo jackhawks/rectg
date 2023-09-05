@@ -465,6 +465,7 @@
 
 | 机器人名称                                                | 简介                                                         |
 | :-------------------------------------------------------- | :----------------------------------------------------------- |
+| [SE-索引秘书](https://t.me/zh_secretary_bot)                 | 找群组、频道机器人。纯净，无广告。 |
 | [抽奖助手](https://t.me/LotteryHelperBot)                 | 抽奖机器人                                                   |
 | [RSSchina\_bot](https://t.me/RSSchina_bot)                | rss订阅机器人                                                |
 | [RSSBot](https://t.me/RustRssBot)                         | 中文TelegramRSS机器人                                        |
